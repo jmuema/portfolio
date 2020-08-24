@@ -763,6 +763,7 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  height: 80%;
 }
 
 .work-box:hover img {
