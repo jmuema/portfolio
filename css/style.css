@@ -81,14 +81,14 @@ a:hover {
 
 .overlay-mf {
   background-color: #0078ff;
-  background-image: url("img/Background.jpg");
+  background-image: url("img/back.jpg");
 
 
 }
 
 
 .overlay-mf {
-  background-image: url("img/Background.jpg");
+  background-image: url("img/back.jpg");
   position: absolute;
   top: 0;
   left: 0px;
